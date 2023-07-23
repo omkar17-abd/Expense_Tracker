@@ -1,7 +1,7 @@
 ### `Expense Tracker`
 The Expense Tracker application is a web-based financial management tool developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It is designed to help users track their expenses and salary, analyze their financial data, and maintain a record of their financial activities. The application allows users to manage their expenses, categorize them, view expense statistics and reports, and perform similar actions for their salary. The primary aim of the application is to provide users with a simple and efficient way to monitor their financial transactions and gain insights into their spending and earnings habits.
 
-### 'Key Features`
+### `Key Features`
 
 1. Expense Management: Users can add, edit, and delete expenses, providing them with full control over their financial data. They can input relevant details such as expense amount, date, description, and category.
 
